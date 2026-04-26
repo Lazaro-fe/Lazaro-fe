@@ -2,7 +2,7 @@
 
 **'Desenvolvedor FullStack'**
 
-Chamo-me Lázaro Ramos Rodrigues Ferreira, tenho 18 anos e sou natural de Salvado-Bahia. Estou no 3º semestre do curso técnico em Desenvolvimento de Sistemas no SENAI DENDEZEIROS e no 1º semestre em Bacharel em Ciência da Computação na UNIFACS. Tenho nível B1 (pré-intermediário) de inglês. Desde pequeno tive curiosidade por tecnologia e compartilho meus projetos atráves do meu perfil do LinkedIn "[Lázaro Ferreira](www.linkedin.com/in/lázaro-ferreira-713818342)", onde apresento projetos, a partir dos conhecimentos adquiridos em sala de aula.
+Chamo-me Lázaro Ramos Rodrigues Ferreira, tenho 18 anos e sou natural de Salvador-Bahia. Estou no 3º semestre do curso técnico em Desenvolvimento de Sistemas no SENAI DENDEZEIROS e no 1º semestre em Bacharel em Ciência da Computação na UNIFACS. Tenho nível B1 (pré-intermediário) de inglês. Desde pequeno tive curiosidade por tecnologia e compartilho meus projetos atráves do meu perfil do LinkedIn "[Lázaro Ferreira](www.linkedin.com/in/lázaro-ferreira-713818342)", onde apresento projetos, a partir dos conhecimentos adquiridos em sala de aula.
 
 ### 👾 Linguagem e Tecnologias
 
