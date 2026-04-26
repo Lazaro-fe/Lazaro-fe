@@ -55,3 +55,18 @@ Chamo-me Lázaro Ramos Rodrigues Ferreira, tenho 18 anos e sou natural de Salvad
 <br/>
 
 ### 📈 Estatísticas
+<p>
+    <img
+        align= "left"
+        alt= "Github Stats"
+        height= "200"
+        style= "padding-right: 10px"
+        src= "https://github-readme-stats.vercel.app/api?username=Lazarofe&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br"
+        />
+    <img
+        align= "left"
+        alt= "Github Stats"
+        height= "200"
+        src= "https://github-readme-stats.vercel.app/api/pin/top-langs/?username=Lazaro-fe&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9"
+        />
+</p>
